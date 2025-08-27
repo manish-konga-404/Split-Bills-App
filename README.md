@@ -7,3 +7,5 @@ This repo which contain completly depend on Frontend(HTML,CSS,JavaScript)
  2. Enter Tip %
  3. No of Persons
  Click on 'CALCULATE' button
+# Preview
+![](<Split Bills App -Preview.png>)
